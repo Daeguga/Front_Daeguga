@@ -4,8 +4,10 @@ import Router from './Router';
 
 function App() {
   return (
-    <div className="App">
-      <Router />
+    <div className="all">
+      <div className="box">
+        <Router />
+      </div>
     </div>
   );
 }

@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.box {
+  height: 100vh;
+  aspect-ratio: 9/16;
+  background-color: white;
+}
