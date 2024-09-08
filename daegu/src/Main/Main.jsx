@@ -3,9 +3,9 @@ import * as S from './Main.styled'
 
 const Main = () => {
   return (
-    <div>
-      
-    </div>
+    <S.All>
+
+    </S.All>
   )
 }
 
