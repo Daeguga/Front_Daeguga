@@ -1,10 +1,14 @@
-import React from 'react'
-import './Login.styled'
+import React from "react";
+import * as L from "./Login.styled"
+import logo from "../assets/daegugaLogo.svg"
 
 const Login = () => {
   return (
-    <div>Login</div>
-  )
-}
+    <>
+      <div>Login</div>
+      <L.logo img src={logo} />
+    </>
+  );
+};
 
 export default Login;
