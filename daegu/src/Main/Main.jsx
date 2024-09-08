@@ -1,9 +1,11 @@
 import React from 'react'
-import './Main.styled'
+import * as S from './Main.styled'
 
 const Main = () => {
   return (
-    <div>Main</div>
+    <S.All>
+
+    </S.All>
   )
 }
 
