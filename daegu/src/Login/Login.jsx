@@ -1,6 +1,6 @@
 import React from "react";
-import * as L from "./Login.styled"
-import logo from "../assets/daegugaLogo.svg"
+import * as L from "./Login.styled";
+import logo from "../assets/daegugaLogo.svg";
 
 const Login = () => {
   return (
